@@ -8,4 +8,6 @@ public class InkPrinter implements CanPrint {
         helper.print();     // Delegation
     }
 
+    public void changeInk() {}
+
 }

@@ -6,4 +6,6 @@ public class LaserPrinter implements CanPrint {
     public void print() {
         helper.print();     // Delegation
     }
+
+    public void changeToner() {}
 }
