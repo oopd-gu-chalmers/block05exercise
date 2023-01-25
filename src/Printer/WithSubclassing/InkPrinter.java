@@ -4,6 +4,6 @@ public class InkPrinter extends Printer {
     @Override
     public void print() {}
 
-    public void changeToner() {}
+    public void changeInk() {}
 
 }
